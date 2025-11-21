@@ -19,13 +19,13 @@ My focus is on creating end-to-end solutions using n8n's deep feature set:
 | Area of Expertise | Key Integrations |
 | :--- | :--- |
 | **Orchestration** | Webhooks, Cron, Conditional Logic, Custom Code |
-| **AI Agents & RAG** | Google Gemini, Groq, LangChain, Vector Stores (Supabase) |
+| **AI Agents & RAG** | Google Gemini, Groq, Vector Stores (Supabase) |
 | **Data & CRM** | PostgreSQL, Google Sheets, Zoho, HubSpot |
 | **Deployment & DevOps** | **AWS (EC2), Hostinger, Docker, YAML Configuration** |
 
 ---
 
-### ☁️ Cloud Architecture & Deployment (High-Value Skill)
+### ☁️ Cloud Architecture & Deployment 
 
 I provide end-to-end solutions, including setting up and securing the n8n environment itself. I specialize in deploying **production-ready, self-hosted n8n instances** using **Docker and YAML** for full control over persistence, scaling, and security.
 
