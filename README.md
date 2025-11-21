@@ -29,7 +29,7 @@ My focus is on creating end-to-end solutions using n8n's deep feature set:
 
 I provide end-to-end solutions, including setting up and securing the n8n environment itself. I specialize in deploying **production-ready, self-hosted n8n instances** using **Docker and YAML** for full control over persistence, scaling, and security.
 
-* **[Deployment Starter Kit (YAML)](https://github.com/kshitijpatil508/n8n-self-host-starter)** 
+* **[Deployment Starter Kit (AWS)](https://github.com/kshitijpatil508/n8n-self-host-starter)** 
     * *Note: This link will point to my repository containing a ready-to-use YAML configuration for AWS/Hostinger setup.*
 
 ---
