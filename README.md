@@ -19,7 +19,7 @@ My focus is on creating end-to-end solutions using n8n's deep feature set:
 | Area of Expertise | Key Integrations |
 | :--- | :--- |
 | **Orchestration** | Webhooks, Cron, Conditional Logic, Custom Code |
-| **AI Agents & RAG** | Google Gemini, Groq, Vector Stores (Supabase) |
+| **AI Agents & RAG** | Google Gemini, Groq, Vector Stores (Supabase,Postgres) |
 | **Data & CRM** | PostgreSQL, Google Sheets, Zoho, HubSpot |
 | **Deployment & DevOps** | **AWS (EC2), Hostinger, Docker, YAML Configuration** |
 
