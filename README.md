@@ -1,7 +1,7 @@
 # 🚀 Kshitij Patil // n8n Automation & AI Specialist
 
-[![Availability Status](https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Projects-brightgreen?style=for-the-badge)](mailto:your-email@example.com)
-[![Specialization](https://img.shields.io/badge/Stack-n8n%20%7C%20AI%20%7C%20Integration-blue?style=for-the-badge)](https://linkedin.com/in/your-profile)
+[![Availability Status](https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Projects-brightgreen?style=for-the-badge)](mailto:kshitijpatil508@gmail.com)
+[![Specialization](https://img.shields.io/badge/Stack-n8n%20%7C%20AI%20%7C%20Integration-blue?style=for-the-badge)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kshitij-patil-750914213/))
 
 > **I architect and deploy self-sustaining workflows, connecting APIs, databases, and AI models exclusively through n8n.**
 
