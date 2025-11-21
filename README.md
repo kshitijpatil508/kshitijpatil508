@@ -55,3 +55,6 @@ I am available for interviews, project consultations, and new roles.
     <img src="https://img.shields.io/badge/Clients%20%7C%20Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+---
+---
