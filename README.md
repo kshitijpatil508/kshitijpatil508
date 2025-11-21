@@ -8,7 +8,7 @@
 
 > **I architect, deploy, and scale self-sustaining n8n solutions, connecting APIs, databases, and AI models across private cloud environments.**
 
-I specialize in reclaiming valuable operational time by building **scalable, reliable automations** for businesses. I'm actively seeking **Full-Time Automation/Integration roles** and **Project-Based Freelance opportunities**.
+I specialize in reclaiming valuable operational time by building **scalable, reliable automations** for businesses.
 
 ---
 
