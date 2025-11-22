@@ -5,7 +5,9 @@
 
 > **M.Tech Data Science & Analytics | I architect, deploy, and scale self-sustaining workflow solutions, leveraging AWS, n8n, and advanced RAG agents to drive operational efficiency.**
 
+I specialize in reclaiming valuable operational time by building **scalable, reliable automations** for businesses.
 My background combines rigorous academic research in Deep Learning with practical experience in building secure, full-stack enterprise tools (Dell Internship) and high-impact business automations.
+
 
 ---
 
